@@ -1,0 +1,5 @@
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+
+Dengan menambahkan `{-}` di sebelah kanan judul Bab, maka tidak akan diberi no Bab
